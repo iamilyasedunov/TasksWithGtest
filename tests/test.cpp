@@ -58,7 +58,18 @@ TEST(MassiveFrom1toN ,task2_test2)
 
 TEST(Reverse ,task3_test1)
 {
-    vector <int> mas = {5,4,3,2,1}, reverse_arr, reverse_by_stl;
+    vector <int> mas = {5,4,3,2,1,1,2,4,5,7,4,2,3,4,5},
+        reverse_arr, reverse_by_stl;
+    reverse_arr = reverseArr(mas);
+    reverse(mas.begin(), mas.end());
+    for (size_t i = 0;i < mas.size(); i++)
+        EXPECT_EQ(mas[i], reverse_arr[i]);
+}
+
+TEST(Reverse ,task3_test2)
+{
+    vector <char> mas = {'F','i','r','s','t','l','i','n','e','s','o','f','t','w','a','r','e'},
+            reverse_arr, reverse_by_stl;
     reverse_arr = reverseArr(mas);
     reverse(mas.begin(), mas.end());
     for (size_t i = 0;i < mas.size(); i++)
