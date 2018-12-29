@@ -54,7 +54,7 @@ TEST(MassiveFrom1toN ,task2_test2)
         EXPECT_EQ(check(i), ans[i - 1]);
 }
 
-//task2
+//task3
 
 TEST(Reverse ,task3_test1)
 {
