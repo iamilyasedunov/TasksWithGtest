@@ -330,6 +330,9 @@
 		<Unit filename="D:/Clion_projects/TriangleWithTests/include/task3.h">
 			<Option target="TriangleWithTests"/>
 		</Unit>
+		<Unit filename="D:/Clion_projects/TriangleWithTests/include/task4.h">
+			<Option target="TriangleWithTests"/>
+		</Unit>
 		<Unit filename="D:/Clion_projects/TriangleWithTests/lib/googletest-master/googlemock/src/gmock-all.cc">
 			<Option target="gmock"/>
 		</Unit>
@@ -343,6 +346,9 @@
 			<Option target="gtest_main"/>
 		</Unit>
 		<Unit filename="D:/Clion_projects/TriangleWithTests/src/main.cpp">
+			<Option target="TriangleWithTests"/>
+		</Unit>
+		<Unit filename="D:/Clion_projects/TriangleWithTests/src/task4.cpp">
 			<Option target="TriangleWithTests"/>
 		</Unit>
 		<Unit filename="D:/Clion_projects/TriangleWithTests/tests/test.cpp">

@@ -10,7 +10,7 @@ bool isError(std::vector <T> sides)
 }
 
 template <typename T>
-string isAngle(vector<T> sides)
+std::string isAngle(std::vector<T> sides)
 {
     if (isError(sides))
         return "error";
@@ -25,9 +25,9 @@ string isAngle(vector<T> sides)
 }
 
 template <typename T>
-string whatAngle(T a, T b, T c)
+std::string whatAngle(T a, T b, T c)
 {
-    vector <T> sides = {a, b, c};
+    std::vector <T> sides = {a, b, c};
     sort(sides.begin(), sides.end());
     return isAngle(sides);
 }

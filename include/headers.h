@@ -1,4 +1,4 @@
-//
+//Шашкова Дарья МИхайловна
 // Created by Илья on 24.12.2018.
 //
 
@@ -10,6 +10,5 @@
 #include <string>
 #include <vector>
 
-using namespace std;
 
 #endif //TRIANGLEWITHTESTS_HEADERS_H

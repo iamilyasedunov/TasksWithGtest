@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Clion_projects/TriangleWithTests/src/main.cpp" "D:/Clion_projects/TriangleWithTests/cmake-build-debug/CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj"
+  "D:/Clion_projects/TriangleWithTests/src/task4.cpp" "D:/Clion_projects/TriangleWithTests/cmake-build-debug/CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj"
   "D:/Clion_projects/TriangleWithTests/tests/test.cpp" "D:/Clion_projects/TriangleWithTests/cmake-build-debug/CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

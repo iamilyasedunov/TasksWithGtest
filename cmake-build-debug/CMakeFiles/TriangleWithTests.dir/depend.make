@@ -42,7 +42,12 @@ CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../lib/googletest-master/goog
 CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../include/headers.h
+CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../include/task4.h
 CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj: ../src/main.cpp
+
+CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj: ../include/headers.h
+CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj: ../include/task4.h
+CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj: ../src/task4.cpp
 
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -69,5 +74,6 @@ CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../include/headers.h
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../include/task1.h
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../include/task2.h
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../include/task3.h
+CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../include/task4.h
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj: ../tests/test.cpp
 

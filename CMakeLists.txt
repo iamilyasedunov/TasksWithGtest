@@ -11,7 +11,7 @@ include_directories(lib/googletest-master/googlemock/include)
 
 #main run all tests
 #headers files in include
-set(SOURCE_FILES src/main.cpp  include/task1.h include/task2.h include/task3.h tests/test.cpp include/headers.h)
+set(SOURCE_FILES src/main.cpp  include/task1.h include/task2.h include/task3.h include/task4.h tests/test.cpp include/headers.h src/task4.cpp)
 
 #adding all linked files
 add_executable(TriangleWithTests ${SOURCE_FILES})

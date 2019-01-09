@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj"
   "CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj"
+  "CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj"
   "TriangleWithTests.pdb"
   "TriangleWithTests.exe"
   "TriangleWithTests.exe.manifest"

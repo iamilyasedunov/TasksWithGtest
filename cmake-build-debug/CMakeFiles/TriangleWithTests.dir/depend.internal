@@ -43,7 +43,12 @@ CMakeFiles/TriangleWithTests.dir/src/main.cpp.obj
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
  D:/Clion_projects/TriangleWithTests/include/headers.h
+ D:/Clion_projects/TriangleWithTests/include/task4.h
  D:/Clion_projects/TriangleWithTests/src/main.cpp
+CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj
+ D:/Clion_projects/TriangleWithTests/include/headers.h
+ D:/Clion_projects/TriangleWithTests/include/task4.h
+ D:/Clion_projects/TriangleWithTests/src/task4.cpp
 CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-matchers.h
@@ -70,4 +75,5 @@ CMakeFiles/TriangleWithTests.dir/tests/test.cpp.obj
  D:/Clion_projects/TriangleWithTests/include/task1.h
  D:/Clion_projects/TriangleWithTests/include/task2.h
  D:/Clion_projects/TriangleWithTests/include/task3.h
+ D:/Clion_projects/TriangleWithTests/include/task4.h
  D:/Clion_projects/TriangleWithTests/tests/test.cpp

@@ -320,6 +320,10 @@ D:/Clion_projects/TriangleWithTests/include/task3.h
 ../include/headers.h
 D:/Clion_projects/TriangleWithTests/include/headers.h
 
+D:/Clion_projects/TriangleWithTests/include/task4.h
+../include/headers.h
+D:/Clion_projects/TriangleWithTests/include/headers.h
+
 D:/Clion_projects/TriangleWithTests/tests/test.cpp
 ../include/headers.h
 D:/Clion_projects/TriangleWithTests/include/headers.h
@@ -329,6 +333,8 @@ D:/Clion_projects/TriangleWithTests/include/task1.h
 D:/Clion_projects/TriangleWithTests/include/task2.h
 ../include/task3.h
 D:/Clion_projects/TriangleWithTests/include/task3.h
+../include/task4.h
+D:/Clion_projects/TriangleWithTests/include/task4.h
 gtest/gtest.h
 D:/Clion_projects/TriangleWithTests/tests/gtest/gtest.h
 cstring

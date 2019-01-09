@@ -247,6 +247,33 @@ src/main.cpp.s:
 	$(MAKE) -f CMakeFiles\TriangleWithTests.dir\build.make CMakeFiles/TriangleWithTests.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/task4.obj: src/task4.cpp.obj
+
+.PHONY : src/task4.obj
+
+# target to build an object file
+src/task4.cpp.obj:
+	$(MAKE) -f CMakeFiles\TriangleWithTests.dir\build.make CMakeFiles/TriangleWithTests.dir/src/task4.cpp.obj
+.PHONY : src/task4.cpp.obj
+
+src/task4.i: src/task4.cpp.i
+
+.PHONY : src/task4.i
+
+# target to preprocess a source file
+src/task4.cpp.i:
+	$(MAKE) -f CMakeFiles\TriangleWithTests.dir\build.make CMakeFiles/TriangleWithTests.dir/src/task4.cpp.i
+.PHONY : src/task4.cpp.i
+
+src/task4.s: src/task4.cpp.s
+
+.PHONY : src/task4.s
+
+# target to generate assembly for a file
+src/task4.cpp.s:
+	$(MAKE) -f CMakeFiles\TriangleWithTests.dir\build.make CMakeFiles/TriangleWithTests.dir/src/task4.cpp.s
+.PHONY : src/task4.cpp.s
+
 tests/test.obj: tests/test.cpp.obj
 
 .PHONY : tests/test.obj
@@ -294,6 +321,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/task4.obj
+	@echo ... src/task4.i
+	@echo ... src/task4.s
 	@echo ... tests/test.obj
 	@echo ... tests/test.i
 	@echo ... tests/test.s

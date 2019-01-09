@@ -1,6 +1,6 @@
 #include "../include/headers.h"
 
-string check(int N){
+std::string check(int N){
     if ((N % 3 == 0)&&(N % 5 != 0))
         return "Фиг";
 
@@ -10,5 +10,5 @@ string check(int N){
     if ((N % 3 == 0)&&(N % 5 == 0))
         return "ФигВам";
 
-    return to_string(N);
+    return std::to_string(N);
 }
