@@ -1,9 +1,9 @@
 # TasksWithGtest
 project for FLS
 ## Состав проекта:
-  в папке /include описание методов и функций \n
-  в папке /src функции для task4.h \n
-  в папке test, соответственно googletests \n
+  в папке /include описание методов и функций
+  в папке /src функции для task4.h
+  в папке test, соответственно googletests
 
 
 ## task_1
